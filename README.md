@@ -3,7 +3,7 @@ i've inscribed what i consider the first rwa-ordinal.
 i'm a pokemon tcg collector,
 and my passion extends to more realms like art, historical pieces, and others.
 
-the inscription process is very easy, and i want to bring it to the public
+the inscription process is very easy, and i want to bring it to the public.
 i'm backed up by common knowledge technology with bitcoin sovereign,
 and the only goal is to create an immutable asset to verify, bring transparency, and possibly financial opportunities to the collectible world.
 
