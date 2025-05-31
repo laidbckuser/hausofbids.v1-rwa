@@ -1,4 +1,4 @@
-## hausofbids metadata protocol
+###### hausofbids.v1-rwa
 this protocol contains the schema used to inscribed collectible slabs as bitcoin ordinal.
 
 on may 28th (utc 29th),
@@ -21,5 +21,5 @@ thank you for accepting my first project ever.
 
 laidbckuser | hausofbids.
 
-### license
+###### license
 this project is licensed under the [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) license.
