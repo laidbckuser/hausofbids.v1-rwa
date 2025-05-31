@@ -1,5 +1,5 @@
 ###### hausofbids.v1-rwa
-this protocol contains the schema used to inscribed collectible slabs as bitcoin ordinal.
+this protocol contains the schema used to inscribe collectible slabs as bitcoin ordinals.
 
 on may 28th (utc 29th),
 i've inscribed what i consider the first rwa-ordinal.
