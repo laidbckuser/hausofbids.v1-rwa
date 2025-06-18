@@ -22,4 +22,9 @@ thank you for accepting my first project ever.
 laidbckuser | hausofbids.
 
 ###### license
-this project is licensed under the [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) license.
+
+this project is licensed under the [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/) license.
+
+© 2025 kenny prada, hausofbids.
+
+we ask that commercial reuse or derivation of the JSON metadata structure be avoided unless explicitly approved by hausofbids. see `license` for full terms and intent.
